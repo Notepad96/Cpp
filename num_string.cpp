@@ -13,7 +13,6 @@ int main() {
     cout << "\n===========================\n";
 
 
-
     a = 1234567;
     string s = to_string(a);
     vector<int> v, v2;
