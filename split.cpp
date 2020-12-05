@@ -40,7 +40,7 @@ int main() {
 	for (string i : v) {
 		cout << i << "\n";
 	}
-	cout << "====================\n";
+	cout << "======================\n";
 	cout << "¹®ÀÚ¿­ 2 : " << s2 << "\n";
 	for (string i : v2) {
 		cout << i << "\n";
